@@ -1,29 +1,42 @@
-![Next.js Logo](https://github.com/zeit/now/blob/master/packages/frameworks/logos/next.svg)
+<h1 align="center">Welcome to copypass 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/ajkachnic/copypass#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/ajkachnic/copypass/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <a href="https://github.com/ajkachnic/copypass/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/ajkachnic/copypass" />
+  </a>
+  <a href="https://twitter.com/su\_andrewk" target="_blank">
+    <img alt="Twitter: su_andrewk" src="https://img.shields.io/twitter/follow/su_andrewk.svg?style=social" />
+  </a>
+</p>
 
-# Next.js Example
+> a quick, secure, and anonymous way to share your login details
 
-This directory is a brief example of a [Next.js](https://nextjs.org) app that can be deployed with ZEIT Now and zero configuration.
+## Author
 
-## Deploy Your Own
+👤 **Andrew Kachnic**
 
-Deploy your own Next.js project with ZEIT Now.
+* Website: ajkachnic.now.sh
+* Twitter: [@su_andrewk](https://twitter.com/su_andrewk)
+* Github: [@ajkachnic](https://github.com/ajkachnic)
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/zeit/now/tree/master/examples/nextjs)
+## 🤝 Contributing
 
-_Live Example: https://nextjs.now-examples.now.sh_
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ajkachnic/copypass/issues). 
 
-### How We Created This Example
+## Show your support
 
-To get started with Next.js deployed with ZEIT Now, you can use [npm create](https://www.npmjs.com/package/create-next-app) to initialize the project:
+Give a ⭐️ if this project helped you!
 
-```shell
-$ npm create next-app my-app
-```
+## 📝 License
 
-### Deploying From Your Terminal
+Copyright © 2020 [Andrew Kachnic](https://github.com/ajkachnic).<br />
+This project is [MIT](https://github.com/ajkachnic/copypass/blob/master/LICENSE) licensed.
 
-You can deploy your new Next.js project with a single command from your terminal using [Now CLI](https://zeit.co/download):
-
-```shell
-$ now
-```
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
